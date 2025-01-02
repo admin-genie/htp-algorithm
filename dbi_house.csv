@@ -1,0 +1,1001 @@
+id,door_yn,loc,roof_yn,window_cnt,size
+24_175_23002_house,y,center,n,1 or 2,middle
+24_175_23003_house,n,center,y,more than 3,middle
+24_175_23004_house,y,center,y,absence,middle
+24_175_23005_house,y,center,y,absence,middle
+24_175_23006_house,n,center,n,more than 3,big
+24_175_23007_house,n,left,y,absence,middle
+24_175_23008_house,y,left,y,1 or 2,small
+24_175_23010_house,y,left,y,1 or 2,small
+24_175_23012_house,y,center,y,1 or 2,middle
+24_175_23013_house,n,center,y,more than 3,middle
+24_175_23015_house,n,center,y,1 or 2,small
+24_175_23017_house,n,center,y,absence,small
+24_175_23018_house,n,center,y,absence,small
+24_175_23019_house,n,center,n,absence,middle
+24_175_23020_house,y,center,y,more than 3,big
+24_175_23183_house,n,center,y,more than 3,middle
+24_176_23021_house,y,center,n,1 or 2,middle
+24_176_23022_house,n,center,y,1 or 2,middle
+24_176_23023_house,y,center,y,more than 3,small
+24_176_23024_house,n,left,y,more than 3,small
+24_176_23025_house,n,center,y,1 or 2,middle
+24_176_23026_house,y,center,y,1 or 2,middle
+24_176_23028_house,y,center,y,1 or 2,small
+24_176_23029_house,y,right,y,absence,middle
+24_176_23030_house,y,center,y,1 or 2,middle
+24_176_23032_house,y,center,y,1 or 2,middle
+24_176_23033_house,y,center,y,1 or 2,middle
+24_176_23034_house,y,center,y,1 or 2,small
+24_176_23035_house,n,center,n,1 or 2,big
+24_176_23037_house,y,center,y,1 or 2,small
+24_176_23038_house,y,center,y,more than 3,middle
+24_176_23039_house,n,center,y,1 or 2,middle
+24_176_23040_house,y,center,y,1 or 2,middle
+24_176_23041_house,y,left,y,more than 3,small
+24_176_23042_house,n,left,y,1 or 2,small
+24_177_23043_house,y,left,y,more than 3,big
+24_177_23044_house,y,center,y,1 or 2,big
+24_177_23045_house,n,center,n,1 or 2,small
+24_177_23046_house,y,center,y,1 or 2,middle
+24_177_23047_house,y,center,y,more than 3,small
+24_177_23048_house,y,center,y,more than 3,big
+24_177_23049_house,y,center,y,1 or 2,middle
+24_177_23050_house,y,center,y,1 or 2,middle
+24_177_23051_house,y,center,y,1 or 2,middle
+24_177_23052_house,n,center,y,absence,small
+24_177_23053_house,n,center,y,1 or 2,middle
+24_177_23054_house,y,center,y,1 or 2,big
+24_177_23055_house,y,center,y,1 or 2,middle
+24_177_23056_house,n,center,y,1 or 2,middle
+24_177_23057_house,n,center,y,1 or 2,middle
+24_177_23058_house,y,center,y,1 or 2,small
+24_177_23059_house,n,center,y,1 or 2,middle
+24_177_23060_house,n,center,y,1 or 2,middle
+24_177_23061_house,y,left,y,1 or 2,middle
+24_177_23062_house,n,center,y,absence,small
+24_177_23063_house,y,center,y,1 or 2,big
+24_177_23064_house,y,center,y,absence,small
+24_177_23065_house,n,center,y,more than 3,small
+24_178_23066_house,y,center,y,absence,small
+24_178_23067_house,y,center,y,1 or 2,middle
+24_178_23068_house,n,right,y,1 or 2,small
+24_178_23069_house,n,center,y,more than 3,middle
+24_178_23070_house,y,center,y,1 or 2,middle
+24_178_23071_house,y,center,y,1 or 2,small
+24_178_23072_house,y,right,y,1 or 2,middle
+24_178_23073_house,y,center,y,more than 3,big
+24_178_23074_house,y,center,y,1 or 2,middle
+24_178_23075_house,y,center,y,1 or 2,middle
+24_178_23076_house,y,center,y,1 or 2,middle
+24_178_23077_house,y,center,y,1 or 2,big
+24_178_23078_house,y,center,y,more than 3,middle
+24_178_23079_house,y,center,y,more than 3,middle
+24_178_23080_house,y,center,y,more than 3,middle
+24_178_23081_house,n,left,y,1 or 2,middle
+24_178_23082_house,y,center,y,more than 3,small
+24_178_23085_house,y,center,y,absence,middle
+24_178_23086_house,y,center,y,more than 3,middle
+24_178_23087_house,y,center,y,1 or 2,small
+24_178_23088_house,n,center,y,1 or 2,middle
+24_179_23089_house,y,center,y,1 or 2,big
+24_179_23090_house,y,center,y,1 or 2,middle
+24_179_23091_house,y,center,y,more than 3,big
+24_179_23092_house,y,center,y,1 or 2,middle
+24_179_23093_house,n,center,y,absence,middle
+24_179_23094_house,y,center,y,more than 3,middle
+24_179_23095_house,y,center,y,1 or 2,middle
+24_179_23096_house,y,center,y,1 or 2,big
+24_179_23097_house,y,center,y,more than 3,middle
+24_179_23098_house,y,center,y,1 or 2,middle
+24_179_23099_house,y,center,y,more than 3,big
+24_179_23100_house,y,center,y,more than 3,middle
+24_179_23101_house,y,center,y,more than 3,middle
+24_179_23102_house,y,center,y,1 or 2,big
+24_179_23103_house,y,center,y,1 or 2,middle
+24_179_23104_house,y,center,y,1 or 2,big
+24_179_23105_house,y,center,y,1 or 2,middle
+24_179_23106_house,y,center,y,more than 3,middle
+24_179_23107_house,y,center,y,1 or 2,small
+24_179_23108_house,y,center,y,1 or 2,big
+24_179_23109_house,y,center,y,1 or 2,middle
+24_179_23110_house,y,center,y,more than 3,middle
+24_179_23111_house,n,left,y,more than 3,middle
+24_179_23112_house,y,center,y,more than 3,middle
+24_179_23113_house,y,center,y,1 or 2,middle
+24_179_23114_house,y,center,y,more than 3,middle
+24_179_23115_house,y,center,y,1 or 2,middle
+24_179_23116_house,y,center,y,more than 3,middle
+24_179_23117_house,y,center,y,more than 3,middle
+24_179_23118_house,y,center,y,1 or 2,middle
+24_179_23119_house,n,center,y,more than 3,middle
+24_179_23120_house,y,center,y,1 or 2,big
+24_180_23121_house,y,center,y,1 or 2,small
+24_180_23122_house,y,center,y,1 or 2,middle
+24_180_23123_house,y,center,y,1 or 2,middle
+24_180_23124_house,y,center,y,more than 3,middle
+24_180_23125_house,y,left,y,1 or 2,middle
+24_180_23126_house,y,center,y,more than 3,middle
+24_180_23127_house,y,center,y,1 or 2,middle
+24_180_23128_house,n,left,y,1 or 2,middle
+24_180_23129_house,y,center,y,1 or 2,small
+24_180_23130_house,y,center,y,1 or 2,small
+24_180_23131_house,n,center,y,1 or 2,middle
+24_180_23132_house,y,center,y,1 or 2,middle
+24_180_23133_house,y,center,y,1 or 2,middle
+24_180_23134_house,y,center,y,1 or 2,small
+24_180_23135_house,y,center,y,1 or 2,middle
+24_180_23136_house,y,center,y,1 or 2,middle
+24_180_23137_house,y,center,y,more than 3,middle
+24_180_23138_house,y,center,y,1 or 2,middle
+24_180_23139_house,y,center,y,1 or 2,middle
+24_180_23140_house,y,left,y,more than 3,big
+24_180_23141_house,y,center,y,more than 3,middle
+24_180_23142_house,y,center,y,1 or 2,middle
+24_180_23143_house,y,center,y,more than 3,middle
+24_180_23144_house,y,center,y,1 or 2,middle
+24_180_23145_house,y,center,y,more than 3,small
+24_180_23146_house,y,center,y,more than 3,small
+24_180_23147_house,y,center,y,1 or 2,big
+24_180_23148_house,y,center,y,more than 3,middle
+24_180_23149_house,y,center,y,1 or 2,middle
+24_180_23150_house,y,center,y,1 or 2,small
+24_181_23151_house,y,center,y,1 or 2,small
+24_181_23152_house,y,center,y,1 or 2,middle
+24_181_23153_house,y,center,y,more than 3,middle
+24_181_23154_house,y,center,y,1 or 2,middle
+24_181_23156_house,y,center,y,1 or 2,small
+24_181_23157_house,y,center,y,1 or 2,small
+24_181_23158_house,y,center,y,1 or 2,small
+24_181_23160_house,y,center,y,1 or 2,middle
+24_181_23161_house,y,center,y,1 or 2,small
+24_181_23162_house,y,center,n,1 or 2,middle
+24_181_23163_house,y,center,y,1 or 2,big
+24_181_23164_house,y,right,y,1 or 2,middle
+24_181_23165_house,y,center,y,1 or 2,middle
+24_181_23166_house,y,center,y,1 or 2,middle
+24_181_23167_house,y,center,y,1 or 2,small
+24_181_23168_house,y,center,y,1 or 2,middle
+24_181_23169_house,y,center,y,1 or 2,big
+24_181_23170_house,y,center,y,1 or 2,middle
+24_181_23171_house,y,center,y,1 or 2,middle
+24_181_23172_house,y,center,y,1 or 2,middle
+24_181_23173_house,y,center,y,1 or 2,small
+24_181_23174_house,y,center,y,1 or 2,middle
+24_181_23175_house,y,center,y,1 or 2,middle
+24_181_23176_house,y,center,y,1 or 2,middle
+24_181_23177_house,y,center,y,1 or 2,middle
+24_181_23178_house,y,center,y,1 or 2,middle
+24_181_23179_house,y,center,y,1 or 2,middle
+24_181_23180_house,y,center,y,1 or 2,middle
+24_181_23181_house,y,center,y,1 or 2,middle
+24_181_23182_house,y,center,y,1 or 2,middle
+26_139_23001_house,n,center,y,1 or 2,middle
+26_139_23002_house,y,center,y,1 or 2,small
+26_139_23003_house,n,left,y,1 or 2,middle
+26_139_23004_house,y,center,y,1 or 2,middle
+26_139_23005_house,y,center,y,1 or 2,small
+26_139_23006_house,y,center,y,more than 3,middle
+26_139_23007_house,y,center,y,1 or 2,middle
+26_139_23008_house,n,center,y,1 or 2,middle
+26_139_23009_house,y,center,y,more than 3,middle
+26_139_23011_house,y,center,y,1 or 2,middle
+26_139_23012_house,y,center,y,more than 3,middle
+26_139_23013_house,y,center,y,1 or 2,small
+26_139_23014_house,y,center,y,1 or 2,middle
+26_139_23015_house,y,center,y,1 or 2,middle
+26_139_23016_house,y,center,y,1 or 2,middle
+26_139_23017_house,y,center,y,1 or 2,middle
+26_140_23018_house,y,left,y,1 or 2,middle
+26_140_23019_house,y,center,y,more than 3,small
+26_140_23020_house,y,left,y,1 or 2,small
+26_140_23021_house,y,center,y,1 or 2,small
+26_140_23022_house,y,left,y,more than 3,big
+26_140_23023_house,y,center,y,more than 3,middle
+26_140_23024_house,n,center,y,more than 3,middle
+26_140_23025_house,y,center,y,1 or 2,middle
+26_140_23026_house,y,center,y,more than 3,middle
+26_140_23027_house,n,left,y,more than 3,middle
+26_140_23028_house,y,center,y,1 or 2,middle
+26_140_23029_house,y,center,y,more than 3,middle
+26_140_23030_house,y,center,y,1 or 2,middle
+26_140_23031_house,n,center,y,absence,small
+26_140_23032_house,y,left,y,1 or 2,small
+26_140_23033_house,y,center,y,more than 3,middle
+26_140_23034_house,y,center,y,more than 3,middle
+26_141_23035_house,y,center,y,1 or 2,big
+26_141_23036_house,y,center,y,1 or 2,middle
+26_141_23037_house,y,center,y,1 or 2,small
+26_141_23038_house,y,center,y,more than 3,middle
+26_141_23039_house,y,center,y,1 or 2,middle
+26_141_23040_house,y,center,y,1 or 2,middle
+26_141_23041_house,y,center,y,1 or 2,middle
+26_141_23042_house,y,center,y,1 or 2,small
+26_141_23043_house,y,center,y,more than 3,middle
+26_141_23044_house,n,center,y,absence,middle
+26_141_23045_house,n,center,y,more than 3,middle
+26_141_23046_house,y,center,y,1 or 2,middle
+26_141_23047_house,y,center,y,1 or 2,middle
+26_141_23048_house,n,center,y,1 or 2,middle
+26_141_23049_house,y,center,y,1 or 2,middle
+26_141_23050_house,y,center,y,1 or 2,big
+26_141_23051_house,y,center,y,absence,middle
+26_142_23052_house,y,center,y,more than 3,middle
+26_142_23053_house,y,center,y,more than 3,middle
+26_142_23054_house,y,center,y,1 or 2,small
+26_142_23055_house,n,center,y,more than 3,big
+26_142_23056_house,n,left,y,more than 3,small
+26_142_23057_house,n,left,y,1 or 2,small
+26_142_23058_house,y,center,y,1 or 2,big
+26_142_23059_house,y,center,y,1 or 2,middle
+26_142_23060_house,y,center,y,1 or 2,middle
+26_142_23061_house,y,center,y,1 or 2,middle
+26_142_23062_house,y,center,y,1 or 2,middle
+26_142_23063_house,y,left,y,more than 3,middle
+26_142_23064_house,y,center,y,1 or 2,middle
+26_142_23065_house,y,center,y,more than 3,middle
+26_142_23066_house,y,left,y,1 or 2,middle
+26_142_23067_house,n,center,y,1 or 2,middle
+33_91_23001_house,n,center,y,1 or 2,middle
+33_91_23002_house,y,center,y,1 or 2,middle
+33_91_23003_house,y,center,y,1 or 2,middle
+33_91_23004_house,y,center,y,1 or 2,small
+33_91_23005_house,n,left,n,more than 3,big
+33_91_23006_house,y,center,y,1 or 2,small
+33_91_23007_house,y,center,y,1 or 2,middle
+33_91_23008_house,y,center,y,1 or 2,middle
+33_91_23009_house,y,left,y,1 or 2,small
+33_91_23011_house,y,center,y,more than 3,big
+33_91_23012_house,y,center,y,more than 3,middle
+33_91_23013_house,y,center,y,more than 3,small
+33_91_23014_house,y,center,y,more than 3,middle
+33_91_23015_house,y,center,y,absence,small
+33_91_23016_house,y,center,y,1 or 2,big
+33_91_23017_house,y,right,y,1 or 2,middle
+33_91_23018_house,y,center,y,1 or 2,small
+33_91_23019_house,y,center,y,1 or 2,small
+33_91_23022_house,y,center,y,more than 3,middle
+33_91_23023_house,y,center,y,more than 3,middle
+33_91_23024_house,y,center,y,1 or 2,small
+33_92_23025_house,y,center,y,1 or 2,middle
+33_92_23026_house,n,center,y,more than 3,small
+33_92_23027_house,y,center,y,more than 3,middle
+33_92_23028_house,y,center,y,1 or 2,small
+33_92_23030_house,y,center,y,absence,middle
+33_92_23031_house,y,center,y,1 or 2,middle
+33_92_23032_house,y,center,y,1 or 2,middle
+33_92_23033_house,y,center,y,1 or 2,middle
+33_92_23034_house,y,center,y,1 or 2,small
+33_92_23035_house,y,center,y,absence,small
+33_92_23036_house,y,center,y,1 or 2,small
+33_92_23037_house,y,center,y,1 or 2,small
+33_92_23038_house,y,center,y,more than 3,middle
+33_92_23040_house,y,center,y,more than 3,middle
+33_92_23041_house,y,center,y,1 or 2,middle
+33_92_23042_house,y,center,y,1 or 2,small
+33_92_23043_house,y,center,y,1 or 2,big
+33_92_23044_house,y,center,y,1 or 2,middle
+33_93_23045_house,y,center,n,more than 3,middle
+33_93_23046_house,y,center,y,1 or 2,small
+33_93_23047_house,y,center,y,1 or 2,small
+33_93_23048_house,y,center,y,1 or 2,big
+33_93_23049_house,n,center,y,1 or 2,small
+33_93_23050_house,n,left,y,1 or 2,middle
+33_93_23051_house,y,center,y,1 or 2,middle
+33_93_23052_house,y,left,y,1 or 2,small
+33_93_23053_house,y,center,y,1 or 2,middle
+33_93_23054_house,y,center,y,more than 3,middle
+33_93_23055_house,n,center,y,absence,small
+33_93_23056_house,y,center,y,1 or 2,middle
+33_93_23057_house,y,center,y,more than 3,middle
+33_93_23058_house,n,center,y,absence,middle
+33_93_23059_house,y,center,y,1 or 2,middle
+33_93_23060_house,n,center,y,more than 3,middle
+33_93_23061_house,y,center,y,1 or 2,small
+33_93_23062_house,y,left,y,1 or 2,middle
+33_93_23063_house,n,center,y,1 or 2,small
+33_93_23064_house,y,center,y,1 or 2,middle
+33_93_23065_house,y,center,y,absence,middle
+33_94_23066_house,y,center,y,1 or 2,middle
+33_94_23067_house,y,center,y,more than 3,middle
+33_94_23068_house,n,center,y,1 or 2,small
+33_94_23069_house,y,center,y,1 or 2,small
+33_94_23070_house,n,right,y,1 or 2,small
+33_94_23071_house,y,center,y,1 or 2,middle
+33_94_23072_house,y,center,y,1 or 2,middle
+33_94_23073_house,y,center,y,more than 3,small
+33_94_23074_house,y,center,y,more than 3,middle
+33_94_23075_house,n,left,y,1 or 2,small
+33_94_23076_house,n,center,y,1 or 2,middle
+33_94_23077_house,y,center,y,1 or 2,middle
+33_94_23078_house,y,center,y,1 or 2,middle
+33_94_23079_house,y,center,y,1 or 2,middle
+33_94_23080_house,y,center,y,1 or 2,middle
+33_94_23081_house,y,center,y,1 or 2,middle
+33_94_23082_house,y,center,y,1 or 2,middle
+33_94_23083_house,n,center,y,1 or 2,middle
+33_94_23084_house,y,center,y,1 or 2,big
+33_94_23085_house,y,center,y,1 or 2,small
+33_94_23086_house,y,center,y,1 or 2,middle
+33_94_23087_house,y,center,y,1 or 2,middle
+33_95_23088_house,y,left,y,more than 3,middle
+33_95_23089_house,n,center,y,1 or 2,small
+33_95_23090_house,y,left,y,1 or 2,big
+33_95_23091_house,y,left,y,1 or 2,small
+33_95_23092_house,y,center,y,1 or 2,middle
+33_95_23093_house,y,left,y,more than 3,big
+33_95_23094_house,y,center,y,1 or 2,middle
+33_95_23095_house,y,right,y,1 or 2,middle
+33_95_23096_house,y,left,y,more than 3,small
+33_95_23097_house,y,center,y,1 or 2,middle
+33_95_23098_house,y,center,y,1 or 2,middle
+33_95_23099_house,y,center,y,more than 3,middle
+33_95_23100_house,y,center,y,more than 3,big
+33_95_23101_house,y,center,y,1 or 2,middle
+33_95_23102_house,y,center,y,1 or 2,middle
+33_95_23103_house,y,center,y,1 or 2,middle
+33_95_23104_house,y,center,y,1 or 2,middle
+33_95_23105_house,y,left,y,1 or 2,middle
+33_95_23106_house,y,left,y,more than 3,middle
+33_95_23107_house,y,center,n,absence,big
+33_95_23108_house,y,right,y,1 or 2,middle
+33_96_23109_house,y,left,y,1 or 2,middle
+33_96_23110_house,y,center,y,1 or 2,middle
+33_96_23111_house,y,center,y,1 or 2,middle
+33_96_23112_house,y,center,y,1 or 2,middle
+33_96_23113_house,y,center,y,1 or 2,middle
+33_96_23114_house,y,left,y,1 or 2,middle
+33_96_23115_house,y,center,y,1 or 2,middle
+33_96_23116_house,y,left,y,1 or 2,middle
+33_96_23117_house,y,center,y,1 or 2,big
+33_96_23118_house,y,center,y,1 or 2,middle
+33_96_23120_house,y,center,y,1 or 2,middle
+33_96_23121_house,y,center,y,more than 3,middle
+33_96_23122_house,y,center,y,1 or 2,middle
+33_96_23123_house,y,center,y,1 or 2,big
+33_96_23124_house,y,center,y,1 or 2,middle
+33_96_23125_house,y,center,y,1 or 2,big
+33_96_23126_house,y,center,y,1 or 2,big
+33_96_23128_house,y,left,y,1 or 2,big
+33_96_23129_house,y,center,y,1 or 2,middle
+33_96_23130_house,y,center,y,more than 3,middle
+33_96_23131_house,y,center,y,1 or 2,middle
+33_96_23132_house,y,center,y,1 or 2,middle
+33_96_23133_house,y,center,y,more than 3,middle
+33_96_23134_house,y,left,y,1 or 2,middle
+33_96_23135_house,y,center,y,1 or 2,middle
+33_96_23136_house,y,center,y,1 or 2,middle
+33_96_23137_house,y,center,y,1 or 2,middle
+33_96_23224_house,y,center,y,1 or 2,big
+33_97_23138_house,y,center,y,more than 3,big
+33_97_23139_house,y,center,y,1 or 2,big
+33_97_23140_house,n,left,y,1 or 2,middle
+33_97_23141_house,y,center,y,1 or 2,middle
+33_97_23142_house,y,center,y,absence,big
+33_97_23143_house,y,center,y,more than 3,middle
+33_97_23144_house,n,center,y,more than 3,middle
+33_97_23145_house,n,left,y,more than 3,middle
+33_97_23146_house,y,center,y,more than 3,big
+33_97_23147_house,n,center,y,more than 3,big
+33_97_23148_house,y,center,y,more than 3,big
+33_97_23149_house,y,center,y,1 or 2,middle
+33_97_23150_house,n,center,y,1 or 2,middle
+33_97_23151_house,y,center,y,1 or 2,middle
+33_97_23152_house,y,center,y,more than 3,middle
+33_97_23153_house,y,center,y,more than 3,big
+33_97_23154_house,y,center,y,1 or 2,big
+33_97_23155_house,y,right,y,more than 3,middle
+33_97_23156_house,n,center,y,absence,big
+33_97_23157_house,y,center,y,more than 3,middle
+33_97_23158_house,y,center,y,1 or 2,big
+33_97_23159_house,y,center,y,1 or 2,middle
+33_97_23160_house,y,center,y,more than 3,big
+33_97_23161_house,y,center,y,more than 3,big
+33_97_23162_house,y,center,y,absence,middle
+33_97_23163_house,y,center,y,more than 3,middle
+33_97_23164_house,y,center,y,1 or 2,big
+33_97_23165_house,y,center,y,1 or 2,middle
+33_97_23166_house,y,center,y,more than 3,small
+33_98_23167_house,y,center,y,more than 3,big
+33_98_23168_house,n,center,y,1 or 2,middle
+33_98_23169_house,y,center,y,absence,big
+33_98_23170_house,y,center,y,1 or 2,small
+33_98_23171_house,y,center,y,1 or 2,small
+33_98_23172_house,n,center,y,1 or 2,big
+33_98_23173_house,y,center,y,1 or 2,middle
+33_98_23174_house,y,center,y,more than 3,middle
+33_98_23175_house,y,left,y,1 or 2,middle
+33_98_23176_house,n,center,y,more than 3,middle
+33_98_23177_house,n,center,y,1 or 2,small
+33_98_23178_house,y,right,y,1 or 2,big
+33_98_23179_house,y,left,y,absence,middle
+33_98_23180_house,n,center,n,more than 3,middle
+33_98_23181_house,y,center,y,1 or 2,middle
+33_98_23182_house,n,center,y,more than 3,middle
+33_98_23183_house,y,center,y,1 or 2,middle
+33_98_23184_house,y,center,y,1 or 2,middle
+33_98_23185_house,y,center,y,1 or 2,big
+33_98_23186_house,y,center,y,1 or 2,middle
+33_98_23187_house,y,center,y,1 or 2,middle
+33_98_23188_house,y,center,y,1 or 2,middle
+33_98_23189_house,y,left,y,1 or 2,big
+33_98_23190_house,y,center,y,1 or 2,middle
+33_98_23191_house,y,center,y,more than 3,middle
+33_98_23192_house,y,center,y,1 or 2,middle
+33_98_23193_house,y,center,y,1 or 2,middle
+33_98_23194_house,y,center,y,1 or 2,small
+33_99_23195_house,y,left,y,more than 3,big
+33_99_23196_house,y,center,y,1 or 2,middle
+33_99_23197_house,y,center,y,1 or 2,middle
+33_99_23198_house,y,center,y,more than 3,big
+33_99_23199_house,y,center,y,1 or 2,middle
+33_99_23200_house,n,center,y,more than 3,big
+33_99_23201_house,y,center,y,1 or 2,big
+33_99_23202_house,n,center,y,more than 3,big
+33_99_23203_house,y,center,y,more than 3,middle
+33_99_23204_house,y,center,y,more than 3,middle
+33_99_23205_house,n,center,y,1 or 2,middle
+33_99_23206_house,n,center,y,more than 3,small
+33_99_23207_house,y,center,y,more than 3,middle
+33_99_23208_house,y,center,y,more than 3,big
+33_99_23209_house,y,center,y,absence,middle
+33_99_23210_house,y,center,y,1 or 2,middle
+33_99_23211_house,y,center,y,more than 3,big
+33_99_23212_house,y,center,y,more than 3,middle
+33_99_23213_house,n,center,y,absence,small
+33_99_23214_house,y,center,y,1 or 2,middle
+33_99_23215_house,y,center,y,more than 3,middle
+33_99_23216_house,y,center,y,1 or 2,middle
+33_99_23217_house,y,center,y,1 or 2,small
+33_99_23218_house,y,center,y,1 or 2,small
+33_99_23219_house,y,center,y,more than 3,big
+33_99_23220_house,y,center,y,1 or 2,big
+33_99_23221_house,y,center,y,1 or 2,big
+33_99_23225_house,y,center,y,more than 3,middle
+38_104_23001_house,y,center,y,1 or 2,middle
+38_104_23002_house,y,center,y,absence,middle
+38_104_23003_house,n,center,y,more than 3,small
+38_104_23004_house,y,center,y,1 or 2,small
+38_104_23005_house,n,center,n,absence,small
+38_104_23006_house,n,center,y,more than 3,middle
+38_104_23007_house,y,center,y,1 or 2,big
+38_104_23008_house,y,center,y,absence,middle
+38_104_23009_house,n,center,y,1 or 2,small
+38_104_23010_house,n,center,y,more than 3,middle
+38_104_23011_house,n,center,y,more than 3,middle
+38_104_23012_house,y,center,y,1 or 2,middle
+38_104_23013_house,y,center,y,more than 3,middle
+38_104_23014_house,y,center,y,1 or 2,small
+38_104_23015_house,n,center,n,absence,middle
+38_104_23016_house,n,center,y,more than 3,middle
+38_104_23017_house,y,center,y,more than 3,middle
+38_104_23018_house,y,center,y,1 or 2,middle
+38_104_23019_house,y,center,y,more than 3,small
+38_104_23020_house,n,center,y,1 or 2,middle
+38_104_23021_house,y,center,y,more than 3,middle
+38_104_23022_house,y,center,y,1 or 2,middle
+38_105_23023_house,y,center,y,more than 3,middle
+38_105_23024_house,n,center,y,1 or 2,middle
+38_105_23025_house,y,center,y,absence,small
+38_105_23026_house,y,center,y,1 or 2,big
+38_105_23027_house,n,center,y,1 or 2,small
+38_105_23028_house,n,center,y,1 or 2,small
+38_105_23029_house,n,center,y,more than 3,middle
+38_105_23030_house,n,center,n,absence,big
+38_105_23031_house,n,right,y,1 or 2,small
+38_105_23032_house,n,center,y,1 or 2,big
+38_105_23034_house,y,center,y,1 or 2,small
+38_105_23035_house,y,center,y,1 or 2,small
+38_105_23036_house,n,center,y,absence,middle
+38_105_23037_house,y,center,y,1 or 2,big
+38_105_23038_house,n,center,y,1 or 2,middle
+38_105_23039_house,n,center,y,more than 3,middle
+38_105_23041_house,y,center,y,1 or 2,middle
+38_105_23042_house,y,center,y,absence,middle
+38_105_23043_house,n,center,y,1 or 2,big
+38_106_23046_house,y,right,y,1 or 2,middle
+38_106_23047_house,y,center,y,1 or 2,middle
+38_106_23048_house,y,center,y,1 or 2,middle
+38_106_23049_house,y,center,y,1 or 2,small
+38_106_23050_house,y,center,y,1 or 2,small
+38_106_23051_house,y,right,y,1 or 2,middle
+38_106_23052_house,y,center,y,1 or 2,small
+38_106_23053_house,y,center,y,absence,middle
+38_106_23054_house,y,left,y,1 or 2,middle
+38_106_23055_house,y,center,y,1 or 2,big
+38_106_23056_house,y,center,y,more than 3,small
+38_106_23057_house,y,center,y,1 or 2,big
+38_106_23058_house,y,center,y,1 or 2,middle
+38_106_23060_house,y,left,y,1 or 2,middle
+38_106_23061_house,y,center,y,more than 3,middle
+38_106_23062_house,y,left,y,1 or 2,small
+38_106_23063_house,y,left,y,1 or 2,small
+38_106_23065_house,y,center,y,1 or 2,middle
+38_106_23066_house,n,left,y,more than 3,middle
+38_106_23067_house,y,right,y,1 or 2,small
+38_106_23068_house,y,left,y,absence,small
+38_107_23069_house,y,center,y,1 or 2,small
+38_107_23070_house,n,center,y,1 or 2,middle
+38_107_23071_house,n,center,n,more than 3,big
+38_107_23072_house,y,center,y,1 or 2,middle
+38_107_23073_house,y,center,y,more than 3,middle
+38_107_23074_house,y,center,y,1 or 2,middle
+38_107_23075_house,y,left,y,1 or 2,middle
+38_107_23076_house,y,center,y,1 or 2,middle
+38_107_23077_house,y,center,y,absence,big
+38_107_23078_house,y,center,y,1 or 2,big
+38_107_23079_house,y,center,y,1 or 2,middle
+38_107_23080_house,y,center,y,1 or 2,middle
+38_107_23081_house,n,center,y,more than 3,middle
+38_107_23082_house,y,center,y,1 or 2,middle
+38_107_23083_house,n,left,y,1 or 2,small
+38_107_23084_house,n,center,y,1 or 2,middle
+38_107_23085_house,y,center,y,1 or 2,middle
+38_107_23086_house,y,center,y,1 or 2,middle
+38_107_23087_house,y,center,y,more than 3,middle
+38_107_23088_house,y,center,y,1 or 2,middle
+38_107_23090_house,y,center,y,1 or 2,middle
+38_107_23091_house,n,center,y,1 or 2,middle
+38_107_23092_house,y,center,y,1 or 2,middle
+3_11_23062_house,n,center,y,absence,small
+3_11_23063_house,n,center,y,absence,small
+3_11_23064_house,y,center,y,more than 3,middle
+3_11_23065_house,y,left,y,more than 3,middle
+3_11_23066_house,y,center,y,1 or 2,middle
+3_11_23067_house,y,center,y,more than 3,middle
+3_11_23068_house,n,center,y,more than 3,big
+3_11_23069_house,y,left,y,1 or 2,middle
+3_11_23070_house,y,left,y,1 or 2,middle
+3_11_23071_house,y,center,y,1 or 2,middle
+3_11_23072_house,y,right,y,1 or 2,middle
+3_11_23073_house,y,center,y,1 or 2,small
+3_11_23074_house,y,center,y,more than 3,middle
+3_11_23075_house,y,center,y,more than 3,middle
+3_11_23076_house,y,left,y,1 or 2,middle
+3_11_23077_house,y,center,y,more than 3,big
+3_11_23078_house,y,center,y,1 or 2,middle
+3_11_23079_house,y,center,y,more than 3,middle
+3_11_23080_house,n,center,y,1 or 2,small
+3_11_23081_house,n,center,n,more than 3,big
+3_11_23082_house,y,left,y,1 or 2,small
+3_11_23123_house,y,right,y,1 or 2,small
+3_12_23083_house,n,center,n,absence,big
+3_12_23085_house,y,center,y,absence,small
+3_12_23086_house,y,center,y,more than 3,middle
+3_12_23087_house,n,center,n,1 or 2,big
+3_12_23088_house,n,left,y,1 or 2,small
+3_12_23089_house,y,center,y,1 or 2,middle
+3_12_23090_house,y,right,y,1 or 2,middle
+3_12_23091_house,y,center,y,1 or 2,middle
+3_12_23092_house,n,center,y,more than 3,small
+3_12_23093_house,y,center,y,1 or 2,middle
+3_12_23094_house,y,center,y,1 or 2,middle
+3_12_23095_house,n,center,y,1 or 2,middle
+3_12_23096_house,n,center,y,1 or 2,big
+3_12_23097_house,y,right,y,absence,middle
+3_12_23098_house,y,center,y,more than 3,small
+3_12_23099_house,y,center,y,absence,middle
+3_12_23100_house,y,center,y,more than 3,middle
+3_12_23101_house,y,right,y,1 or 2,middle
+3_12_23102_house,n,center,y,absence,big
+3_13_23103_house,n,center,y,more than 3,middle
+3_13_23104_house,n,center,y,1 or 2,middle
+3_13_23105_house,y,center,y,1 or 2,middle
+3_13_23107_house,n,center,n,1 or 2,big
+3_13_23108_house,y,left,y,1 or 2,big
+3_13_23111_house,n,center,y,1 or 2,middle
+3_13_23113_house,y,center,y,absence,big
+3_13_23114_house,y,left,y,1 or 2,big
+3_13_23115_house,y,center,y,more than 3,big
+3_13_23116_house,y,center,y,absence,big
+3_13_23118_house,y,center,y,1 or 2,middle
+3_13_23120_house,n,center,y,more than 3,big
+3_14_23001_house,y,left,y,1 or 2,small
+3_14_23002_house,y,left,y,1 or 2,small
+3_14_23003_house,y,center,y,1 or 2,small
+3_14_23004_house,y,center,y,more than 3,big
+3_14_23005_house,y,center,y,1 or 2,big
+3_14_23006_house,y,center,y,more than 3,middle
+3_14_23007_house,y,left,y,more than 3,small
+3_14_23008_house,y,center,y,more than 3,middle
+3_14_23009_house,y,left,y,1 or 2,small
+3_14_23010_house,y,center,y,more than 3,middle
+3_14_23011_house,y,left,y,more than 3,small
+3_14_23012_house,y,center,y,more than 3,middle
+3_14_23013_house,y,center,y,1 or 2,middle
+3_14_23014_house,y,center,y,1 or 2,middle
+3_14_23015_house,y,center,y,more than 3,middle
+3_14_23016_house,y,left,y,more than 3,middle
+3_14_23017_house,y,center,y,1 or 2,middle
+3_14_23018_house,y,center,y,more than 3,small
+3_14_23019_house,y,center,y,absence,small
+3_14_23020_house,y,left,y,1 or 2,middle
+3_15_23021_house,y,center,y,more than 3,middle
+3_15_23022_house,n,center,y,more than 3,big
+3_15_23023_house,y,center,y,more than 3,middle
+3_15_23024_house,y,left,y,more than 3,middle
+3_15_23025_house,y,left,y,1 or 2,small
+3_15_23026_house,y,center,y,1 or 2,middle
+3_15_23027_house,y,left,y,more than 3,big
+3_15_23028_house,y,center,n,1 or 2,middle
+3_15_23029_house,y,center,y,more than 3,big
+3_15_23030_house,y,center,y,1 or 2,middle
+3_15_23031_house,y,center,y,1 or 2,middle
+3_15_23032_house,n,center,y,1 or 2,middle
+3_15_23033_house,y,center,y,more than 3,middle
+3_15_23034_house,y,left,y,1 or 2,middle
+3_15_23035_house,y,center,y,more than 3,middle
+3_15_23036_house,y,center,y,1 or 2,middle
+3_15_23037_house,y,center,y,1 or 2,middle
+3_15_23038_house,y,left,y,more than 3,middle
+3_15_23039_house,y,center,y,1 or 2,middle
+3_15_23041_house,y,center,y,more than 3,middle
+3_16_23042_house,y,center,y,more than 3,middle
+3_16_23043_house,y,center,y,1 or 2,middle
+3_16_23044_house,y,center,y,absence,middle
+3_16_23045_house,y,center,y,more than 3,big
+3_16_23046_house,y,center,y,1 or 2,small
+3_16_23047_house,y,left,y,more than 3,middle
+3_16_23048_house,y,center,y,more than 3,middle
+3_16_23049_house,n,center,y,1 or 2,small
+3_16_23050_house,y,center,y,1 or 2,big
+3_16_23052_house,y,center,y,1 or 2,middle
+3_16_23053_house,y,left,y,1 or 2,small
+3_16_23054_house,y,center,y,1 or 2,middle
+3_16_23055_house,y,center,y,more than 3,middle
+3_16_23056_house,y,center,n,1 or 2,small
+3_16_23057_house,y,left,y,1 or 2,middle
+3_16_23058_house,y,left,y,1 or 2,small
+3_16_23059_house,y,center,y,1 or 2,middle
+3_16_23060_house,y,center,y,1 or 2,middle
+3_16_23061_house,y,center,y,1 or 2,big
+3_16_23122_house,y,center,y,more than 3,middle
+47_197_23001_house,y,center,y,1 or 2,small
+47_197_23002_house,y,center,y,1 or 2,middle
+47_197_23003_house,n,center,y,absence,middle
+47_197_23004_house,y,left,y,1 or 2,middle
+47_197_23005_house,y,left,y,1 or 2,small
+47_197_23006_house,y,center,y,1 or 2,middle
+47_197_23008_house,y,left,y,1 or 2,small
+47_197_23009_house,n,center,n,more than 3,big
+47_197_23010_house,y,center,y,more than 3,small
+47_197_23011_house,y,center,y,1 or 2,small
+47_197_23012_house,n,center,y,more than 3,small
+47_197_23013_house,n,center,y,1 or 2,middle
+47_197_23014_house,y,left,y,1 or 2,small
+47_197_23015_house,y,center,n,1 or 2,big
+47_197_23016_house,n,center,y,1 or 2,middle
+47_198_23017_house,n,center,y,1 or 2,middle
+47_198_23018_house,y,center,y,1 or 2,small
+47_198_23019_house,y,center,y,more than 3,middle
+47_198_23020_house,n,center,y,1 or 2,middle
+47_198_23021_house,y,center,y,more than 3,middle
+47_198_23022_house,n,center,y,1 or 2,small
+47_198_23023_house,y,right,y,1 or 2,small
+47_198_23024_house,y,center,y,more than 3,small
+47_198_23025_house,y,right,y,1 or 2,middle
+47_198_23026_house,y,center,y,1 or 2,middle
+47_198_23027_house,y,left,y,1 or 2,big
+47_198_23028_house,y,left,y,more than 3,middle
+47_198_23029_house,y,center,y,1 or 2,small
+47_199_23030_house,n,center,y,1 or 2,middle
+47_199_23031_house,y,left,y,1 or 2,middle
+47_199_23032_house,y,center,y,1 or 2,middle
+47_199_23033_house,y,center,y,1 or 2,middle
+47_199_23034_house,y,left,y,1 or 2,small
+47_199_23035_house,y,center,y,1 or 2,middle
+47_199_23036_house,y,center,y,1 or 2,middle
+47_199_23037_house,y,left,y,1 or 2,small
+47_199_23038_house,y,center,y,absence,small
+47_199_23039_house,y,center,y,1 or 2,middle
+47_199_23041_house,y,center,y,absence,small
+47_199_23042_house,y,center,y,1 or 2,middle
+47_199_23043_house,n,center,y,1 or 2,middle
+47_199_23044_house,y,left,y,more than 3,middle
+50_227_23003_house,y,center,y,1 or 2,middle
+50_227_23004_house,y,center,y,more than 3,middle
+50_227_23005_house,y,left,n,more than 3,small
+50_227_23006_house,y,center,y,1 or 2,small
+50_227_23007_house,y,left,n,absence,small
+50_227_23008_house,y,center,y,1 or 2,middle
+50_227_23009_house,y,center,y,1 or 2,middle
+50_227_23010_house,y,right,y,1 or 2,small
+50_227_23011_house,y,center,y,1 or 2,middle
+50_227_23012_house,y,left,y,absence,middle
+50_227_23013_house,y,center,y,1 or 2,middle
+50_227_23014_house,y,left,y,more than 3,middle
+50_227_23015_house,y,center,y,1 or 2,small
+50_227_23016_house,y,center,y,1 or 2,middle
+50_227_23018_house,y,center,y,more than 3,small
+50_227_23019_house,y,center,y,1 or 2,middle
+50_227_23020_house,y,left,y,1 or 2,small
+50_227_23021_house,y,center,y,1 or 2,middle
+50_227_23022_house,y,center,y,more than 3,big
+50_227_23024_house,y,center,y,1 or 2,middle
+50_228_23025_house,y,center,y,1 or 2,middle
+50_228_23026_house,y,center,y,1 or 2,middle
+50_228_23027_house,n,right,y,more than 3,middle
+50_228_23029_house,y,center,y,1 or 2,small
+50_228_23030_house,n,center,y,more than 3,big
+50_228_23031_house,y,center,y,1 or 2,middle
+50_228_23032_house,y,center,y,more than 3,middle
+50_228_23033_house,y,center,y,1 or 2,middle
+50_228_23034_house,y,center,y,1 or 2,middle
+50_228_23035_house,y,center,y,absence,middle
+50_228_23036_house,y,center,y,more than 3,small
+50_228_23038_house,n,left,y,more than 3,small
+50_228_23039_house,n,center,y,1 or 2,small
+50_228_23040_house,y,center,y,1 or 2,middle
+50_228_23041_house,y,center,y,1 or 2,small
+50_228_23042_house,n,center,n,absence,middle
+50_228_23044_house,n,right,y,absence,big
+50_228_23045_house,n,center,y,more than 3,small
+50_228_23046_house,y,left,y,1 or 2,small
+50_228_23047_house,n,center,y,more than 3,small
+50_228_23048_house,y,center,y,1 or 2,middle
+50_229_23049_house,n,center,y,1 or 2,middle
+50_229_23050_house,y,center,y,absence,middle
+50_229_23051_house,n,center,y,absence,small
+50_229_23052_house,n,center,y,1 or 2,middle
+50_229_23053_house,n,center,y,absence,middle
+50_229_23054_house,y,center,y,1 or 2,small
+50_229_23055_house,y,center,y,absence,small
+50_229_23056_house,y,center,y,1 or 2,middle
+50_229_23057_house,y,center,y,1 or 2,small
+50_229_23058_house,y,left,y,1 or 2,small
+50_229_23059_house,n,left,y,1 or 2,middle
+50_229_23060_house,y,center,n,1 or 2,middle
+50_229_23061_house,y,center,n,1 or 2,small
+50_229_23062_house,n,center,y,more than 3,middle
+50_229_23063_house,y,center,n,more than 3,big
+50_229_23064_house,y,center,y,1 or 2,small
+50_229_23065_house,y,left,y,absence,middle
+50_229_23066_house,y,left,y,absence,middle
+50_229_23067_house,n,left,y,absence,small
+50_229_23068_house,y,right,y,1 or 2,middle
+50_229_23069_house,n,center,y,more than 3,middle
+50_229_23070_house,n,center,y,absence,small
+50_229_23071_house,y,center,y,more than 3,big
+50_230_23072_house,n,center,y,1 or 2,big
+50_230_23073_house,n,center,n,absence,big
+50_230_23074_house,n,center,n,more than 3,middle
+50_230_23075_house,y,right,y,1 or 2,big
+50_230_23076_house,n,right,n,absence,middle
+50_230_23077_house,y,left,y,absence,middle
+50_230_23079_house,y,left,y,1 or 2,middle
+50_230_23081_house,n,center,n,1 or 2,big
+50_230_23082_house,y,center,y,1 or 2,middle
+50_230_23083_house,y,center,y,1 or 2,middle
+50_230_23084_house,y,center,y,more than 3,big
+50_230_23085_house,y,center,y,1 or 2,middle
+50_230_23086_house,y,center,y,1 or 2,small
+50_230_23087_house,n,center,y,1 or 2,big
+50_230_23088_house,n,center,y,1 or 2,middle
+50_230_23089_house,n,center,y,more than 3,middle
+50_230_23090_house,n,left,y,1 or 2,big
+50_230_23091_house,y,center,n,1 or 2,big
+50_230_23092_house,y,right,y,1 or 2,middle
+50_230_23093_house,n,center,n,more than 3,big
+50_230_23094_house,n,center,n,more than 3,middle
+50_230_23095_house,y,left,y,absence,middle
+50_230_23096_house,y,center,y,more than 3,big
+50_230_23097_house,y,center,y,1 or 2,middle
+50_230_23098_house,y,center,y,1 or 2,middle
+50_230_23099_house,y,center,y,1 or 2,middle
+50_231_23100_house,n,center,y,1 or 2,middle
+50_231_23101_house,y,right,y,1 or 2,middle
+50_231_23102_house,y,center,y,1 or 2,middle
+50_231_23103_house,n,center,y,1 or 2,small
+50_231_23104_house,n,center,y,absence,middle
+50_231_23105_house,y,center,y,absence,small
+50_231_23106_house,y,left,y,absence,middle
+50_231_23107_house,y,center,y,1 or 2,middle
+50_231_23108_house,y,center,y,1 or 2,middle
+50_231_23109_house,n,center,y,1 or 2,middle
+50_231_23110_house,n,center,y,more than 3,middle
+50_231_23111_house,y,center,y,1 or 2,middle
+50_231_23112_house,n,center,y,absence,small
+50_231_23113_house,n,center,y,1 or 2,middle
+50_231_23114_house,y,center,y,1 or 2,big
+50_231_23115_house,n,center,y,more than 3,middle
+50_231_23116_house,n,center,y,absence,middle
+50_231_23117_house,n,center,y,more than 3,big
+50_231_23118_house,y,center,y,1 or 2,middle
+50_231_23119_house,n,left,y,absence,small
+50_231_23120_house,y,center,y,more than 3,middle
+50_231_23121_house,n,center,y,1 or 2,small
+50_231_23122_house,n,center,y,1 or 2,small
+50_231_23123_house,y,center,y,1 or 2,big
+50_231_23124_house,n,left,y,1 or 2,middle
+50_231_23126_house,y,center,n,more than 3,big
+50_231_23127_house,y,center,y,1 or 2,middle
+52_214_23001_house,y,left,y,more than 3,small
+52_214_23002_house,n,left,y,1 or 2,middle
+52_214_23003_house,y,right,y,1 or 2,middle
+52_214_23004_house,y,center,y,1 or 2,middle
+52_214_23005_house,y,center,n,absence,middle
+52_214_23006_house,y,center,n,1 or 2,middle
+52_214_23007_house,n,center,n,1 or 2,middle
+52_214_23008_house,n,center,n,more than 3,small
+52_214_23009_house,n,center,y,absence,small
+52_214_23010_house,y,center,n,1 or 2,middle
+52_214_23011_house,n,center,n,more than 3,big
+52_214_23012_house,y,center,y,absence,middle
+52_214_23014_house,n,center,y,1 or 2,middle
+52_214_23016_house,y,center,y,absence,middle
+52_214_23017_house,n,center,n,1 or 2,middle
+52_214_23018_house,n,center,n,1 or 2,small
+52_215_23021_house,n,center,y,1 or 2,small
+52_215_23022_house,n,left,y,1 or 2,small
+52_215_23023_house,y,center,y,more than 3,small
+52_215_23025_house,y,center,y,more than 3,small
+52_215_23026_house,n,center,n,absence,middle
+52_215_23027_house,y,left,y,absence,middle
+52_215_23028_house,n,center,y,1 or 2,middle
+52_215_23030_house,n,center,y,absence,middle
+52_215_23032_house,n,left,y,absence,middle
+52_215_23034_house,n,center,y,absence,small
+52_215_23035_house,n,center,n,absence,middle
+52_215_23036_house,n,center,y,absence,small
+52_215_23037_house,n,center,y,more than 3,middle
+52_215_23039_house,n,center,y,absence,middle
+52_216_23041_house,n,center,y,more than 3,middle
+52_216_23042_house,n,left,n,more than 3,small
+52_216_23043_house,n,left,y,absence,small
+52_216_23044_house,y,center,y,absence,small
+52_216_23045_house,n,left,y,more than 3,small
+52_216_23047_house,y,left,n,1 or 2,middle
+52_216_23048_house,n,left,y,absence,middle
+52_216_23049_house,y,center,y,1 or 2,big
+52_216_23050_house,y,center,y,1 or 2,middle
+52_216_23051_house,n,left,y,1 or 2,big
+52_216_23052_house,n,center,y,1 or 2,middle
+52_216_23053_house,y,center,n,more than 3,middle
+52_216_23054_house,y,center,y,1 or 2,middle
+52_216_23055_house,y,center,y,1 or 2,small
+52_216_23056_house,n,center,y,more than 3,middle
+52_216_23057_house,y,center,y,more than 3,big
+52_216_23058_house,y,center,y,1 or 2,middle
+52_216_23059_house,n,right,y,more than 3,middle
+52_217_23060_house,n,left,y,more than 3,middle
+52_217_23061_house,y,left,y,1 or 2,middle
+52_217_23062_house,y,center,y,1 or 2,big
+52_217_23063_house,y,center,y,more than 3,small
+52_217_23064_house,y,center,y,1 or 2,big
+52_217_23065_house,y,center,y,1 or 2,middle
+52_217_23066_house,n,left,y,more than 3,middle
+52_217_23067_house,n,center,y,more than 3,middle
+52_217_23068_house,y,center,y,more than 3,middle
+52_217_23069_house,y,center,y,1 or 2,middle
+52_217_23070_house,y,center,y,1 or 2,small
+52_217_23071_house,y,left,y,more than 3,big
+52_217_23072_house,n,center,y,1 or 2,small
+52_217_23073_house,y,center,y,more than 3,middle
+52_217_23074_house,y,center,y,more than 3,big
+52_217_23075_house,y,center,y,1 or 2,small
+52_217_23076_house,y,center,y,1 or 2,middle
+52_217_23077_house,n,left,y,more than 3,middle
+52_217_23078_house,y,center,y,absence,middle
+52_217_23079_house,y,center,y,absence,small
+52_217_23080_house,y,center,y,absence,big
+52_217_23081_house,y,center,y,absence,middle
+52_218_23103_house,y,center,y,more than 3,middle
+52_218_23104_house,y,center,y,more than 3,middle
+52_218_23105_house,y,center,y,more than 3,big
+52_218_23106_house,y,center,y,1 or 2,middle
+52_218_23107_house,y,center,y,more than 3,big
+52_218_23108_house,n,left,n,absence,middle
+52_218_23109_house,y,left,y,more than 3,middle
+52_218_23110_house,y,center,y,more than 3,middle
+52_218_23112_house,n,center,y,more than 3,middle
+52_218_23113_house,y,center,y,more than 3,big
+52_218_23114_house,y,center,y,1 or 2,middle
+52_218_23115_house,y,center,y,more than 3,middle
+52_218_23116_house,y,left,y,more than 3,middle
+52_218_23117_house,y,center,y,absence,small
+52_218_23118_house,y,right,y,more than 3,big
+52_218_23119_house,y,center,y,1 or 2,middle
+52_218_23120_house,y,center,y,1 or 2,middle
+52_218_23121_house,y,center,y,more than 3,middle
+52_219_23082_house,y,left,y,more than 3,middle
+52_219_23083_house,y,center,y,1 or 2,middle
+52_219_23084_house,y,center,y,more than 3,middle
+52_219_23085_house,y,center,y,more than 3,middle
+52_219_23086_house,y,center,y,more than 3,middle
+52_219_23087_house,y,center,y,1 or 2,middle
+52_219_23088_house,y,center,y,1 or 2,middle
+52_219_23089_house,y,center,y,more than 3,middle
+52_219_23090_house,y,center,n,more than 3,small
+52_219_23091_house,y,center,y,1 or 2,middle
+52_219_23092_house,y,center,y,more than 3,big
+52_219_23093_house,y,center,y,1 or 2,big
+52_219_23094_house,y,center,y,1 or 2,big
+52_219_23095_house,y,center,y,1 or 2,middle
+52_219_23096_house,y,center,y,1 or 2,middle
+52_219_23097_house,n,center,y,1 or 2,small
+52_219_23098_house,y,center,y,more than 3,big
+52_219_23099_house,y,center,y,1 or 2,big
+52_219_23100_house,y,center,y,more than 3,middle
+52_219_23101_house,y,center,y,more than 3,middle
+52_219_23102_house,y,center,y,more than 3,middle
+5_25_23046_house,y,center,y,1 or 2,middle
+5_25_23047_house,y,center,y,1 or 2,middle
+5_25_23048_house,y,center,y,more than 3,middle
+5_25_23049_house,y,center,y,more than 3,middle
+5_25_23050_house,y,center,y,1 or 2,middle
+5_25_23052_house,y,center,y,1 or 2,middle
+5_25_23053_house,y,center,y,more than 3,middle
+5_25_23054_house,y,center,y,1 or 2,middle
+5_25_23055_house,y,left,y,1 or 2,big
+5_25_23056_house,y,center,y,1 or 2,middle
+5_25_23057_house,y,center,y,1 or 2,middle
+5_25_23058_house,y,center,y,1 or 2,middle
+5_25_23059_house,y,center,y,more than 3,middle
+5_25_23061_house,y,center,y,1 or 2,small
+5_25_23062_house,y,center,y,1 or 2,big
+5_25_23063_house,y,center,y,more than 3,middle
+5_25_23064_house,y,center,y,1 or 2,middle
+5_25_23065_house,y,center,y,more than 3,middle
+5_25_23066_house,y,center,y,1 or 2,small
+5_25_23067_house,y,center,y,1 or 2,middle
+5_25_23068_house,y,center,y,1 or 2,middle
+5_25_23069_house,y,center,y,more than 3,middle
+5_25_23070_house,y,center,y,1 or 2,middle
+5_26_23001_house,y,center,y,more than 3,middle
+5_26_23002_house,y,center,y,more than 3,middle
+5_26_23003_house,y,center,y,more than 3,middle
+5_26_23004_house,y,center,y,1 or 2,middle
+5_26_23005_house,n,center,y,more than 3,small
+5_26_23007_house,n,center,y,more than 3,middle
+5_26_23008_house,y,left,y,1 or 2,small
+5_26_23009_house,y,left,y,1 or 2,middle
+5_26_23010_house,y,center,y,1 or 2,big
+5_26_23012_house,y,center,y,1 or 2,middle
+5_26_23013_house,y,center,y,1 or 2,middle
+5_26_23015_house,y,center,y,more than 3,middle
+5_26_23016_house,y,center,y,absence,small
+5_26_23019_house,y,left,y,1 or 2,middle
+5_26_23020_house,n,center,y,absence,small
+5_26_23021_house,y,center,y,1 or 2,middle
+5_26_23022_house,y,center,y,1 or 2,big
+5_28_23071_house,y,center,y,1 or 2,middle
+5_28_23072_house,y,center,y,more than 3,middle
+5_28_23073_house,y,center,y,1 or 2,middle
+5_28_23074_house,y,center,n,1 or 2,middle
+5_28_23075_house,y,center,y,1 or 2,middle
+5_28_23077_house,y,center,y,1 or 2,small
+5_28_23078_house,y,left,y,1 or 2,small
+5_28_23079_house,y,center,y,1 or 2,small
+5_28_23080_house,y,center,y,1 or 2,middle
+5_28_23081_house,y,left,y,1 or 2,middle
+5_28_23082_house,y,center,y,1 or 2,small
+5_28_23083_house,y,center,y,more than 3,small
+5_28_23084_house,y,left,y,1 or 2,middle
+5_28_23085_house,y,left,y,more than 3,small
+5_28_23086_house,y,right,y,1 or 2,middle
+5_28_23087_house,y,center,y,1 or 2,middle
+5_28_23088_house,y,center,y,1 or 2,middle
+5_28_23089_house,y,center,y,1 or 2,middle
+5_28_23091_house,y,center,y,absence,middle
+5_28_23092_house,y,center,y,more than 3,middle
+5_28_23093_house,y,center,y,1 or 2,middle
+5_28_23094_house,y,center,y,1 or 2,small
+5_29_23023_house,y,left,y,1 or 2,middle
+5_29_23024_house,y,center,y,1 or 2,middle
+5_29_23025_house,y,center,y,more than 3,middle
+5_29_23026_house,y,left,y,1 or 2,small
+5_29_23027_house,y,center,y,more than 3,middle
+5_29_23028_house,y,center,y,1 or 2,middle
+5_29_23030_house,y,center,y,more than 3,middle
+5_29_23031_house,y,center,y,1 or 2,small
+5_29_23032_house,y,center,n,1 or 2,middle
+5_29_23033_house,y,center,y,more than 3,small
+5_29_23034_house,y,center,y,more than 3,middle
+5_29_23035_house,y,center,y,1 or 2,middle
+5_29_23038_house,y,center,y,1 or 2,middle
+5_29_23039_house,y,center,n,1 or 2,middle
+5_29_23040_house,y,center,y,more than 3,small
+5_29_23041_house,y,center,y,more than 3,middle
+5_29_23043_house,n,center,y,1 or 2,big
+5_29_23044_house,y,center,y,1 or 2,middle
+5_29_23045_house,y,center,y,1 or 2,middle
